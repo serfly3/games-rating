@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "\"проект оценки игр (2)\"",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serfly3/rateGameProject.git"
+  },
+  "author": "serfly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serfly3/rateGameProject/issues"
+  },
+  "homepage": "https://github.com/serfly3/rateGameProject#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
